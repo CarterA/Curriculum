@@ -6,12 +6,12 @@ An object is an abstract concept. The basic idea is that a program is layed out 
 MVC is a design pattern adopted by most modern object-oriented languages/APIs. It dictates what objects perform what tasks, and how they communicate with each other. Each language/API has specific guidelines relating to MVC, but the general rules are always present. These are the basic rules that it contains:  
 
 * Every object must **either** be a Model, a View, or a Controller. Merging any of them defeats the purpose.   
-* The Model represents knowledge, the View is a representation of that knowledge.  
+* The Model represents data, the View is an interpretation of that data. 
 
 ###Smalltalk Interpretation of MVC  
 
-* The Controller handles and interprets user input and updates the View and Model accordingly.
-* The View **can** talk directly to the Model in order to update the displayed information.
+* The Controller handles and interprets user input and updates the Model accordingly.  
+* The View polls the model for changes, and updates itself accordingly.  
 
 ###Cocoa Interpretation of MVC  
 
