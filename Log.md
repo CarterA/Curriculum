@@ -16,3 +16,5 @@ The day isn't over yet, but so far, this is how I've spent my time:
 * 9:00 - 10:45 AM:  Reviewing papers about MVC, writing down some ideas and questions to ask Doug (see Notes.md).  
 * 11:00 AM - 12:45 PM:  Interviewed and brainstormed with Doug Leber about the project (see Notes.md).  
 * 1:20 - 2:25 PM:  Typed up notes from Doug and created a rough plan for the class schedule (see Notes.md).
+* 2:25 - 3:00 PM:  Wrote rough drafts of the emails to send to experts.
+* 3:00 - 3:10 PM:  Edited and sent out emails to experts.
