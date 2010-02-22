@@ -9,3 +9,11 @@ I added the proposal to the repository today, and got it all formatted and up-to
 * Work on anything Doug and I talked about, make sure to type it all up.  
 * Start doing sketches of some of the curriculum metaphors.  
 * Draft the email to send to Scott, Zach, and Emanuele.  
+
+##02/22/10  
+The day isn't over yet, but so far, this is how I've spent my time:  
+
+* 9:00 - 10:45 AM:  Reviewing papers about MVC, writing down some ideas and questions to ask Doug (see Notes.md).  
+* 11:00 AM - 12:45 PM:  Interviewed and brainstormed with Doug Leber about the project (see Notes.md).  
+
+Next up is typing up all of the stuff I worked on with Doug.
