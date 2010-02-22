@@ -37,7 +37,7 @@ One important piece of the Smalltalk interpretation of MVC is the way that the M
 
 #Course Schedule (Rough)  
 
-* **Day One:**  The class will jump straight to displaying simple examples of iPhone apps using MVC. Some examples to use include:  
+* **Day One:**  The class will jump straight to displaying simple examples of iPhone apps using OOP. After a brief overview of OOP, we'll jump into MVC. Some examples to use include:  
 	* Bubblewrap (Model:  List of bubbles, their positions, and whether or not they are popped; View:  The image of bubbles on the screen; Controller:  The code that takes the position of a tap, figures out which bubble was hit, and then sets that bubble to popped in the model)  
 	* Mover (Model:  List of files on disk and available to user; View:  Flat view on screen with files displayed as small items; Controller:  The interpreter of taps and drags that tells the filesystem what to send where, and the receiver of files sent by other devices which are then stored in the model)  
 	* Notes (Model:  Database of notes made by the user; View:  A list of the titles of notes which can be tapped and expanded to show their full content; Controller:  The code that interprets taps on either a note or the plus sign button an d updates the model accordingly)  
