@@ -11,10 +11,18 @@ I added the proposal to the repository today, and got it all formatted and up-to
 * Draft the email to send to Scott, Zach, and Emanuele.  
 
 ##02/22/10  
-The day isn't over yet, but so far, this is how I've spent my time:  
+This is how I've spent my time today:  
 
 * 9:00 - 10:45 AM:  Reviewing papers about MVC, writing down some ideas and questions to ask Doug (see Notes.md).  
 * 11:00 AM - 12:45 PM:  Interviewed and brainstormed with Doug Leber about the project (see Notes.md).  
 * 1:20 - 2:25 PM:  Typed up notes from Doug and created a rough plan for the class schedule (see Notes.md).
 * 2:25 - 3:00 PM:  Wrote rough drafts of the emails to send to experts.
-* 3:00 - 3:10 PM:  Edited and sent out emails to experts.
+* 3:00 - 3:10 PM:  Edited and sent out emails to experts.  
+* 3:10 - 4:00 PM:  Began writing the first page of the curriculum itself (see Pages/One.md).  
+
+Today went quite well. The meeting with Doug was extremely helpful, and I definitely have plenty to work on. Tomorrow I need to work on the following:
+
+* Setting up a way of testing the curriculum next week.  
+* Completing a rough draft of the first page, and at the very least doing page two as well.  
+* Drafting illustrations for the first two pages.  
+* Planning out some of the first worksheets.  
