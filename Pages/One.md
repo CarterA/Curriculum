@@ -1,5 +1,5 @@
 ##Day One - Teacher's Guide  
-Begin the class by posing the questions:  "Have you ever wondered how apps are created? How games are made?" Some students may know that it has something to do with code. Some may even already have created games using game creation software. Next you should introduce them to a few iPhone apps (list will be added once it is finished - see Notes.md), try and get a bit of a "wow" factor in, or at least some amusement. Make sure you engage everyone during this early time, getting students excited is crucial to success.  
+Begin the class by posing the questions:  "Have you ever wondered how apps are created? How games are made?" Some students may know that it has something to do with code. Some may even already have created games using game creation software. Next you should introduce them to a few iPhone apps (see the list in the "Model-View-Controller:  An Overview" section), try and get a bit of a "wow" factor in, or at least some amusement. Make sure you engage everyone during this early time, getting students excited is crucial to success.  
 
 ###Object-Oriented Programming:  An Overview
 You need to cover the following points:  
@@ -21,4 +21,11 @@ You should introduce MVC as a "paradigm", or a "design pattern". It is a way of 
 * The Controller handles and interprets user input and updates the Model accordingly.  
 * The View polls the model for changes, and updates itself accordingly.  
 
-To demonstrate MVC, you can use the following iPhone apps: (list will be added once it is finished - see Notes.md).
+To demonstrate MVC, you can use the following iPhone apps:  
+
+* Bubblewrap (Model:  List of bubbles, their positions, and whether or not they are popped; View:  The image of bubbles on the screen; Controller:  The code that takes the position of a tap, figures out which bubble was hit, and then sets that bubble to popped in the model)  
+* Mover (Model:  List of files on disk and available to user; View:  Flat view on screen with files displayed as small items; Controller:  The interpreter of taps and drags that tells the filesystem what to send where, and the receiver of files sent by other devices which are then stored in the model)  
+* Notes (Model:  Database of notes made by the user; View:  A list of the titles of notes which can be tapped and expanded to show their full content; Controller:  The code that interprets taps on either a note or the plus sign button an d updates the model accordingly)  
+* Photos (Model:  Database of photos taken on the phone; View:  The expandable list of photos and their albums; Controller:  The code that tells the model when to provide a big version of a photo, a thumbnail, or other information;)  
+
+Students may try to call back to the army analogy in order to understand MVC. This may not be beneficial, as it is somewhat difficult to connect the two. The only thing to remember here is that every object has a very particulur purpose, and shouldn't have functions overlapping others. This does **not** mean they are entirely independent:  each object should absolutely depend on other objects for extended functionality. The key is that it is a modular design, and can easily be broken down into pieces based on the different functions of the application.
