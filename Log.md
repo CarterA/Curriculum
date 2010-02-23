@@ -26,3 +26,9 @@ Today went quite well. The meeting with Doug was extremely helpful, and I defini
 * Completing a rough draft of the first page, and at the very least doing page two as well.  
 * Drafting illustrations for the first two pages.  
 * Planning out some of the first worksheets.  
+
+##02/23/10  
+Here is what I've done so far today:  
+
+* Emailed the director of the Computer Magnet program at TJ, asking him if I could come in and test the curriculum next week. Hopefully I'll get a response within a couple days.  
+* Got a response from the director at TJ, no dice. Next week is CSAP testing, and it's too short of notice for any teacher anyway.
