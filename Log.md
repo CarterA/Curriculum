@@ -28,8 +28,11 @@ Today went quite well. The meeting with Doug was extremely helpful, and I defini
 * Planning out some of the first worksheets.  
 
 ##02/23/10  
-Here is what I've done so far today:  
+Here is what I did today:  
 
 * Emailed the director of the Computer Magnet program at TJ, asking him if I could come in and test the curriculum next week. Hopefully I'll get a response within a couple days.  
 * Got a response from the director at TJ, no dice. Next week is CSAP testing, and it's too short of notice for any teacher anyway.  
-*Emailed Patti at Logan asking if I could test the curriculum there. Again, hopefully I'll get a quick response.  
+* Emailed Patti at Logan asking if I could test the curriculum there. Again, hopefully I'll get a quick response.  
+* Logan is a no-go according to Patti.  
+* Added a bit more to the curriculum's first page.
+* Finished the first illustration (that took the rest of the day).
