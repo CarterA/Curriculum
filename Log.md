@@ -35,4 +35,12 @@ Here is what I did today:
 * Emailed Patti at Logan asking if I could test the curriculum there. Again, hopefully I'll get a quick response.  
 * Logan is a no-go according to Patti.  
 * Added a bit more to the curriculum's first page.
-* Finished the first illustration (that took the rest of the day).
+* Finished the first illustration (that took the rest of the day).  
+
+##02/24/10  
+Here is my plan for the day:  
+
+* Get the illustration exported and looking nice.  
+* Create a reference sheet for the students on the content taught on day one.  
+* Include the picture.  
+* Choose a page layout program and stick with it for the rest of the time. Markdown can only do so much.  
