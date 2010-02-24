@@ -44,3 +44,8 @@ Here is my plan for the day:
 * Create a reference sheet for the students on the content taught on day one.  
 * Include the picture.  
 * Choose a page layout program and stick with it for the rest of the time. Markdown can only do so much.  
+
+This is what I've done today, so far:  
+
+* 9:00 - 10:30 AM:  Finished up the Teacher's Guide for Day One, which included adding nice formatting and adding a copy of the illustration.  
+* 10:30 AM - Present:  Worked on the Student Reference pages for Day One. They're coming along quite nicely!
