@@ -1,3 +1,4 @@
+#**NOTE:  This file does *not* contain an up-to-date version of this text. See the .pages file for the most recent version.**
 ##Day One - Teacher's Guide  
 Begin the class by posing the questions:  "Have you ever wondered how apps are created? How games are made?" Some students may know that it has something to do with code. Some may have already created games using game creation software. Next you should introduce them to a few iPhone apps (see the list in the "Model-View-Controller:  An Overview" section), try and get a bit of a "wow" factor in, or at the very least some amusement. Make sure you engage everyone during this early time, getting students excited is crucial to success.  
 
