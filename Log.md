@@ -49,4 +49,11 @@ This is what I've done today, so far:
 
 * 9:00 - 10:30 AM:  Finished up the Teacher's Guide for Day One, which included adding nice formatting and adding a copy of the illustration.  
 * 10:30 AM - 12:45 PM:  Worked on the Student Reference pages for Day One. They're coming along quite nicely!  
-* 12:45 PM - 3:00:  Reached a bit of a road block in the student reference, so now I'm going to sketch some stuff out. I started working on the next illustration, but it isn't going very well. That'll be what I work on tomorrow.
+* 12:45 PM - 3:00:  Reached a bit of a road block in the student reference, so now I'm going to sketch some stuff out. I started working on the next illustration, but it isn't going very well. That'll be what I work on tomorrow.  
+
+##02/25/10  
+Alright, I've done a lot today, so far:  
+
+* Finished the next illustration.  
+* Added the illustration to the document, and then wrote a bunch about it.  
+* Finalized the document for day one, exported to PDF. Done with that!  
