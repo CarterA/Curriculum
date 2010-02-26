@@ -57,3 +57,6 @@ Alright, I've done a lot today, so far:
 * Finished the next illustration.  
 * Added the illustration to the document, and then wrote a bunch about it.  
 * Finalized the document for day one, exported to PDF. Done with that!  
+
+##02/26/10  
+Late start today, by accident I'm afraid. I'm going to work on the worksheet today, I should be able to finish it.
