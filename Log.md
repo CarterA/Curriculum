@@ -59,4 +59,7 @@ Alright, I've done a lot today, so far:
 * Finalized the document for day one, exported to PDF. Done with that!  
 
 ##02/26/10  
-Late start today, by accident I'm afraid. I'm going to work on the worksheet today, I should be able to finish it.
+Late start today, by accident I'm afraid. I'm going to work on the worksheet today, I should be able to finish it.  
+
+##03/01/10  
+Over the weekend, on Sunday to be exact, I was able to meet and interview Megan Freeman, an expert on creating curricula. this was definitely beneficial for me, as I was able to better see the steps I needed to take to create a well-thought-out curriculum. Today I will start out by writing my benchmarks/standards, and then creating a rubric and task description.  
